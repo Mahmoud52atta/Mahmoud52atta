@@ -8,8 +8,8 @@
 
 ### 💼 About Me
 
-- 🎓 Studying at the **Faculty of Navigation Science and Space Technology**
-- 📱 I specialize in **Flutter**, **Firebase**, and **Clean Architecture**
+- 🎓 Studying at the **Faculty of Electronics and Telecommunications Engineering**
+- 📱 I specialize in **Flutter**, **Firebase**, **Clean Architecture** and **restful Apis**
 - 🧠 Experienced with **Provider**, **BLoC**, and **Cubit**
 - 💬 Participated as a **mentor in NASA Hackathon**
 - 🌱 Always learning and exploring new tools and technologies
