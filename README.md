@@ -1,30 +1,31 @@
 ## 👋 Hi there, I'm Mahmoud Ahmed Mohamed
 
-🎯 A passionate Flutter Developer from Egypt with a strong background in Electronics and Telecommunications Engineering.  
-🚀 I’ve been developing Flutter apps for **over a year and a half**, and I love building scalable, beautiful, and functional applications that make an impact.
+🎯 A passionate Flutter Developer from Egypt 🇪🇬  
+🚀 I’ve been developing Flutter apps for over a year and a half, with a focus on scalable, beautiful, and functional applications.  
+📚 I’m a final-year student in Electronics and Telecommunications Engineering and an active contributor to real-world projects.
 
 ---
 
 ### 💼 About Me
 
-- 🎓 I’m a 4th-year student at the **Faculty of Navigation Science and Space Technology**  
-- 🧠 I specialize in **Flutter**, **Firebase**, **API Integration**, and **State Management** (Provider, BLoC, Cubit)
-- 🛠️ I enjoy solving problems and creating clean, maintainable code.
-- 🧑‍🏫 I’ve mentored in **NASA Hackathon** and taught junior developers how to build mobile apps.
-- 🌱 Currently learning more advanced architecture patterns and cloud integrations.
+- 🎓 Studying at the **Faculty of Navigation Science and Space Technology**
+- 📱 I specialize in **Flutter**, **Firebase**, and **Clean Architecture**
+- 🧠 Experienced with **Provider**, **BLoC**, and **Cubit**
+- 💬 Participated as a **mentor in NASA Hackathon**
+- 🌱 Always learning and exploring new tools and technologies
 
 ---
 
-### 💻 Projects I Worked On
-- **📱 Pharmacy Management System** – Managing pharmacy interactions with partners and calculating profits.
-- **📚 Bookly App** – Inspired by book reading platforms with modern UI and API integration.
-- **🌤️ Weather App** – Fetches real-time weather data with animated UI and search features.
-- **💬 ChatApp** – Real-time chat using Firebase Authentication and Firestore.
-- **📊 School Attendance System** – For teachers to mark and manage student attendance.
+### 🔥 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [📝 To-Do App](https://github.com/Mahmoud52atta/To-Do-App) | A task management app built using Flutter, BLoC, Clean Architecture, and connected to an external API. Fully responsive and mobile-first design. |
+| [📲 Rebuild Tasky App](https://github.com/Mahmoud52atta/rebuild_tasky_app) | A modern, animated, and reimagined version of the original Tasky App with improved UI/UX and robust architecture. |
 
 ---
 
-### 🔧 Technologies & Tools
+### 🧰 Tech Stack & Tools
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -36,20 +37,19 @@
 
 ### 📫 Contact Me
 
-- 📍 **Location:** Beni Suef, Egypt  
-- 📞 **Phone:** +20 111 525 7750  
-- 📧 **Email:** mahmoud225486@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-856765266/)  
-- 🧑‍💻 GitHub: [Mahmoud52atta](https://github.com/Mahmoud52atta)
+<p align="center">
+  <b>Flutter Developer</b> from Egypt 🇪🇬<br>
+  Passionate about building mobile apps using Flutter, Firebase, and clean architecture.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-856765266/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mahmoud225486@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+201115257750"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/xx__mahmoud_2tta__xx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Mahmoud52atta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🌟 Fun Facts
-
-- I love turning complex problems into simple, user-friendly apps.
-- I believe in teamwork, continuous learning, and giving back to the dev community.
-- I start every day with a simple plan, healthy breakfast, and a goal in mind.
-
----
-
-⭐️ *Feel free to explore my repositories and reach out for collaboration opportunities!*  
+⭐️ *Feel free to explore my repositories and reach out for collaboration opportunities!*
