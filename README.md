@@ -50,7 +50,7 @@ A passionate Flutter Developer from Egypt 🇪🇬
 | Project | Description |
 |--------|-------------|
 | [📝 To-Do App](https://github.com/Mahmoud52atta/To-Do-App) | A task management app built using Flutter, BLoC, Clean Architecture, and connected to an external API. Fully responsive and mobile-first design. |
-| [📲 Rebuild Tasky App](https://github.com/Mahmoud52atta/rebuild_tasky_app) | A modern, animated, and reimagined version of the original Tasky App with improved UI/UX and robust architecture. |
+| [📲 Taskora App](https://github.com/Mahmoud52atta/rebuild_tasky_app) | A modern, animated, and reimagined version of the original Tasky App with improved UI/UX and robust architecture. |
 | [💊 Pharmacy App](https://github.com/abd0-kha1ed/pharmacy) | A complete pharmacy management system for handling stock, partners, and profit tracking. Built using Flutter with clean and modular code structure. |
 
 ---
